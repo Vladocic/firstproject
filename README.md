@@ -5,5 +5,5 @@
 * CSS(Flexbox)
 
 # Демо
-https://vladocic.github.io/firstproject.github.io/
+https://vladocic.github.io/firstproject
 
